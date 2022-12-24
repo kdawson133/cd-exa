@@ -3,7 +3,7 @@
 Built on [cd-exa](https://github.com/kdawson133/cd-exa) by [zshoo](https://github.com/zshzoo) 
 
 [![License](https://img.shields.io/badge/license-MIT-007EC7)](/LICENSE)
-[![built for](https://img.shields.io/badge/built%20for-%20%F0%9F%A6%93%20zshzoo-black)][zshzoo]
+[![built for](https://img.shields.io/badge/built%20for-%F0%9F%97%B2Zap-yellow)][zap]
 [![works with prezto](https://img.shields.io/badge/works%20with-%E2%9D%AF%E2%9D%AF%E2%9D%AF%20prezto-red)](#install-for-prezto)
 [![works with ohmyzsh](https://img.shields.io/badge/works%20with-%20%E2%9E%9C%20oh--my--zsh-C2D33F)](#install-for-oh-my-zsh)
 
@@ -81,7 +81,6 @@ zstyle ':prezto:load' pmodule \
 
 [ohmyzsh]: https://github.com/ohmyzsh/ohmyzsh
 [prezto]: https://github.com/sorin-ionescu/prezto
-[zshzoo]: https://github.com/zshzoo/zshzoo
 [antidote]: https://github.com/mattmc3/antidote
 [zap]: https://github.com/zap-zsh/zap
 [zcomet]: https://github.com/agkozak/zcomet
